@@ -64,12 +64,11 @@ This project was a fix for broken shelves in my fridge. The models were designed
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Versions
-Below are screenshots of each variation.
+Below are screenshots of each version, with the reason for its existence. Of course I wish there was only one, but such is design. 
 
 ### 1
 
 Version 1 was directly modeled off of the shelf. I messed up some measurements and as a result this was too small.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <img src="v1/connector.png" alt="connector-v1" width="400">
 
@@ -77,13 +76,11 @@ Version 1 was directly modeled off of the shelf. I messed up some measurements a
 
 ### 2
 Version 2 was an attempt to fix the smallness of version one, but still did not fit, as I realized my initial design was slightly wrong.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <img src="v2/connector.png" alt="connector-v2" width="400">
 
 ### 3
 Version 3 was a simplified version of 1 & 2, where I prioritized just making sure it fit. At this point I began printing simplified versions instead of the whole part.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <img src="v3/connector.png" alt="connector-v3" width="400">
 
@@ -92,7 +89,6 @@ Version 3 was a simplified version of 1 & 2, where I prioritized just making sur
 
 ### 4
 Version 4 was a widening of opening in version 3. Version 3 was the right size, but too close that I was concerned after adding the board, I wouldn't be able to get it to fit.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <img src="v4/connector.png" alt="connector-v4" width="400">
 
@@ -100,11 +96,9 @@ Version 4 was a widening of opening in version 3. Version 3 was the right size, 
 
 ### 5
 Version 5, the final version includes the extension and slit for holding the board.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <img src="v5/connector.png" alt="connector-v5" width="400">
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
