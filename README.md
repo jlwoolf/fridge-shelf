@@ -35,7 +35,7 @@
 
 <h3 align="center">Fridge Shelf</h3>
   <p align="center">
-    Autodesk Inventor 3D models (and STL files) for a Frigidaire shelf bracket.
+    3D models for a Frigidaire shelf bracket.
   </p>
 </div>
 
@@ -64,7 +64,7 @@ This project was a fix for broken shelves in my fridge. The models were designed
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Versions
-Below are screenshots of each version, with the reason for its existence. Of course I wish there was only one, but such is design. 
+Below are screenshots of each version along with the reason for its existence. Of course I wish there was only one, but such is design. 
 
 ### 1
 
@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jonathan Woolf  - jlwoolf@proton.me
 
-Project Link: [https://github.com/jlwoolf/pillow-svg](https://github.com/jlwoolf/pillow-svg)
+Project Link: [https://github.com/jlwoolf/fridge-shelf](https://github.com/jlwoolf/fridge-shelf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
