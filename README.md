@@ -45,7 +45,7 @@
   <ol>
     <li><a href="#About">About</a></li>
     <li><a href="#Images">Images</a></li>
-    <li><a href="#Versions">Versions</a></li>
+    <li><a href="#Model">Model</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -63,40 +63,24 @@ This project was a fix for broken shelves in my fridge. The models were designed
 ![connector-in-fridge](images/connector-in-fridge.jpg)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Versions
-Below are screenshots of each version along with the reason for its existence. Of course I wish there was only one, but such is design. 
+## Model
+<div>
+  <img src="images/connector_top.png" alt="Connector Top" style="width: 30%"> 
+  <br>
+  <div style="display: inline-block; width: 100%;">
+    <img src="images/connector_front.png" alt="Connector Front" style="width: 30%;"> 
+    <img src="images/connector_right.png" alt="Connector Right" style="width: 30%;"> 
+    <img src="images/connector_iso.png" alt="Connector ISO;" style="width: 30%;"> 
+  </div>
+</div>
 
-### 1
+<br>
 
-Version 1 was directly modeled off of the shelf. I messed up some measurements and as a result this was too small.
+<div style="display: inline-block; width: 100%;">
+  <img src="images/connector_rendered_front.png" alt="Connector Rendered Front" style="width: 45%;"> 
+  <img src="images/connector_rendered_back.png" alt="Connector Rendered Back" style="width: 45%;"> 
+</div>
 
-<img src="v1/connector.png" alt="connector-v1" width="400">
-
-
-
-### 2
-Version 2 was an attempt to fix the smallness of version one, but still did not fit, as I realized my initial design was slightly wrong.
-
-<img src="v2/connector.png" alt="connector-v2" width="400">
-
-### 3
-Version 3 was a simplified version of 1 & 2, where I prioritized just making sure it fit. At this point I began printing simplified versions instead of the whole part.
-
-<img src="v3/connector.png" alt="connector-v3" width="400">
-
-
-
-
-### 4
-Version 4 was a widening of opening in version 3. Version 3 was the right size, but too close that I was concerned after adding the board, I wouldn't be able to get it to fit.
-
-<img src="v4/connector.png" alt="connector-v4" width="400">
-
-
-
-### 5
-Version 5, the final version includes the extension and slit for holding the board.
-<img src="v5/connector.png" alt="connector-v5" width="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
