@@ -65,20 +65,20 @@ This project was a fix for broken shelves in my fridge. The models were designed
 
 ## Model
 <div>
-  <img src="images/connector_top.png" alt="Connector Top" style="width: 32%"> 
+  <img src="images/connector_top.png" alt="Connector Top" style="width: 32%; padding: 0.5%"> 
   <br>
   <div style="display: inline-block; width: 100%;">
-    <img src="images/connector_front.png" alt="Connector Front" style="width: 32%;"> 
-    <img src="images/connector_right.png" alt="Connector Right" style="width: 32%;"> 
-    <img src="images/connector_iso.png" alt="Connector ISO;" style="width: 32%;"> 
+    <img src="images/connector_front.png" alt="Connector Front" style="width: 32%; padding: 0.5%"> 
+    <img src="images/connector_right.png" alt="Connector Right" style="width: 32%; padding: 0.5%"> 
+    <img src="images/connector_iso.png" alt="Connector ISO;" style="width: 32%; padding: 0.5%"> 
   </div>
 </div>
 
 <br>
 
 <div style="display: inline-block; width: 100%;">
-  <img src="images/connector_rendered_front.png" alt="Connector Rendered Front" style="width: 48%;"> 
-  <img src="images/connector_rendered_back.png" alt="Connector Rendered Back" style="width: 48%;"> 
+  <img src="images/connector_rendered_front.png" alt="Connector Rendered Front" style="width: 48%; padding-left: 0.5%; padding-right: 1%"> 
+  <img src="images/connector_rendered_back.png" alt="Connector Rendered Back" style="width: 48%; padding-left: 1%; padding-right: 0.5%"> 
 </div>
 
 
