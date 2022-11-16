@@ -35,7 +35,7 @@
 
 <h3 align="center">Fridge Shelf</h3>
   <p align="center">
-    3D models for a Frigidaire shelf bracket.
+    3D model for a Frigidaire shelf bracket.
   </p>
 </div>
 
