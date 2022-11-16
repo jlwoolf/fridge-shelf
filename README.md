@@ -57,10 +57,14 @@ This project was a fix for broken shelves in my fridge. The models were designed
 
 ## Images
 
-![connector-printed-inner](images/connector-inner.jpg)
-![connector-printed-outer](images/connector-outer.jpg)
-![connector-printed-with-board](images/connector-with-board.jpg)
-![connector-in-fridge](images/connector-in-fridge.jpg)
+<div style="display: inline-block; width: 100%;">
+  <img src="images/connector-inner.jpg" alt="Connector Printed Inner" style="width: 49%; padding: 0.25%">
+  <img src="images/connector-outer.jpg" alt="Connector Printed Outer" style="width: 49%; padding: 0.25%">
+</div>
+<div style="display: inline-block; width: 100%;">
+  <img src="images/connector-with-board.jpg" alt="Connector Printed With Board" style="width: 49%; padding: 0.25%">
+  <img src="images/connector-in-fridge.jpg" alt="Connector Printed In Fridge" style="width: 49%; padding: 0.25%">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Model
